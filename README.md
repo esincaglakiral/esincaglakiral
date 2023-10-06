@@ -1,4 +1,4 @@
-[![MasterHead](https://www.360technosoft.com/blog/wp-content/uploads/2019/01/Angular-JS-vs-Node-JS-vs-React-JS-Which-One-is-best.jpg)
+![MasterHead](https://www.360technosoft.com/blog/wp-content/uploads/2019/01/Angular-JS-vs-Node-JS-vs-React-JS-Which-One-is-best.jpg)
 <h1 align="center">Hi 👋, I'm Esin Çağla Kıral</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
