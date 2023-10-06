@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
+[![MasterHead](https://www.360technosoft.com/blog/wp-content/uploads/2019/01/Angular-JS-vs-Node-JS-vs-React-JS-Which-One-is-best.jpg)
 <h1 align="center">Hi 👋, I'm Esin Çağla Kıral</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
