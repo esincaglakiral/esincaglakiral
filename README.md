@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esincaglakiral" alt="esincaglakiral" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, Tailwind CSS, MongoDB, Next.js, Express.js**
+- 🌱 I’m currently learning **NodeJS, Tailwind CSS, MongoDB, Next.js, Express.js, C#, .Net**
 
-- 💬 Ask me about **react, angular, javascript and typescript**
+- 💬 Ask me about **react, angular, javascript, C# and typescript**
 
 - 📫 How to reach me **caglakiral@gmail.com**
 
