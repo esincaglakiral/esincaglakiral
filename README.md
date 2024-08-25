@@ -27,6 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
   <a href="https://linkedin.com/in/esincaglakiral" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esincaglakiral" height="30" width="40" />
   </a>
@@ -40,6 +41,10 @@
 
 ### Languages and Tools:
 <p align="left">
+   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/.net.png" alt=".NET" width="40" height="40"/> .NET
+  </a>
+    <br/>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/json-web-token.png" alt="JSON Web Token" width="40" height="40"/> JSON Web Token
   </a>
