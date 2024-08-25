@@ -44,7 +44,7 @@
     <img src="https://img.icons8.com/color/48/000000/json-web-token.png" alt="JSON Web Token" width="40" height="40"/> 
   </a>
   <a href="https://identityserver.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/fluency/48/000000/security.png" alt="Identity Server" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/identity.png" alt="Identity Server" width="40" height="40"/> 
   </a> 
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/> 
@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/api.png" alt="Swagger" width="40" height="40"/> 
   </a> 
   <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="Dapper" width="40" height="40"/> 
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-dapper-micro-orm-framework-logo-shadow-tal-revivo.png" alt="Dapper" width="40" height="40"/> 
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="40" height="40"/> 
