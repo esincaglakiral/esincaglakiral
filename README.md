@@ -3,6 +3,41 @@
 <h1 align="center">Hi 👋, I'm Esin Çağla Kıral</h1>
 <h3 align="center">A passionate .NET developer from Turkey</h3>
 
+## Merhaba!
+
+Ben bir Jr .NET Developer olarak yazılım dünyasında heyecan verici bir yolculuğa çıkmış biriyim. Kod yazmayı ve teknolojileri keşfetmeyi seviyorum, özellikle C#, ASP.NET ve .NET Core gibi güçlü araçlar üzerine yoğunlaşıyorum. Sürekli olarak yeni teknolojiler öğrenmeye ve becerilerimi geliştirmeye odaklanıyorum.
+
+💼 Şu anda bir Jr .NET Developer olarak çeşitli projeler geliştiriyorum ve gerçek dünya uygulamalarıyla deneyim kazanıyorum. Açık kaynak projelerine katkıda bulunarak toplulukla etkileşimde bulunmayı ve farklı bakış açılarını keşfetmeyi büyük bir keyif olarak görüyorum. Projelerimde, teknolojilerin gücünden yararlanarak yenilikçi ve verimli çözümler üretmeye çalışıyorum.
+
+🚀 GitHub profilimde, projelerimi ve teknik becerilerimi paylaşıyorum. Özellikle aşağıdaki teknolojilerle çalışıyorum ve bu alanlarda kendimi sürekli olarak geliştiriyorum:
+
+### 🛠️ Technologies:
+- 🔵 [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
+- 🔗 [ASP.NET API](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
+- 🔧 [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/)
+- 💻 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- 🔑 [JSON Web Token (JWT)](https://jwt.io/)
+- 📦 [Dapper](https://dapper-tutorial.net/)
+- 🐇 [RabbitMQ](https://www.rabbitmq.com/)
+- 📬 [Postman](https://www.getpostman.com/)
+- 📜 [Swagger](https://swagger.io/)
+- 🗃️ [SQLite](https://www.sqlite.org/)
+- ⚙️ [Ocelot Gateway](https://ocelot.readthedocs.io/en/latest/)
+- 🔄 [CQRS Design Pattern](https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet)
+- 📂 [Repository Design Pattern](https://martinfowler.com/eaaCatalog/repository.html)
+- 🔒 [Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data)
+- 🔗 [RapidAPI](https://rapidapi.com/)
+- 🗄️ [Redis](https://redis.io/)
+- 🐳 [Docker](https://www.docker.com/)
+- 🗄️ [MSSQL](https://www.microsoft.com/en-us/sql-server)
+- 🐘 [PostgreSQL](https://www.postgresql.org/)
+- 🍃 [MongoDB](https://www.mongodb.com/)
+- 🔤 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Eğer birlikte çalışma fırsatı bulursak, yeni projelerde yer almayı ve birlikte daha iyi kodlar yazmayı sabırsızlıkla bekliyorum. Teknolojiler konusunda bir tutkuya sahip ve her gün kendimi geliştirmek için yeni şeyler öğrenmeye hevesliyim!
+
+
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=esincaglakiral&label=Profile%20views&color=0e75b6&style=flat" alt="esincaglakiral" /> 
 </p>
