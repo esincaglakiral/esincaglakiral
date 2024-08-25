@@ -74,7 +74,7 @@ Eğer birlikte çalışma fırsatı bulursak, yeni projelerde yer almayı ve bir
   </a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Technologies:
 <div style="display: flex; gap: 10;">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="60" height="60">
