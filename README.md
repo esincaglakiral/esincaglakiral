@@ -74,32 +74,60 @@ Eğer birlikte çalışma fırsatı bulursak, yeni projelerde yer almayı ve bir
   </a>
 </p>
 
-<p align="left">
-  <strong>🛠️ Technologies:</strong>
-  <ul>
-    <li>🔵 <a href="https://docs.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">ASP.NET Core</a></li>
-    <li>🔗 <a href="https://docs.microsoft.com/en-us/aspnet/core/web-api/" target="_blank" rel="noreferrer">ASP.NET API</a></li>
-    <li>🔧 <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank" rel="noreferrer">ASP.NET MVC</a></li>
-    <li>💻 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#</a></li>
-    <li>🔑 <a href="https://jwt.io/" target="_blank" rel="noreferrer">JSON Web Token (JWT)</a></li>
-    <li>📦 <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer">Dapper</a></li>
-    <li>🐇 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">RabbitMQ</a></li>
-    <li>📬 <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">Postman</a></li>
-    <li>📜 <a href="https://swagger.io/" target="_blank" rel="noreferrer">Swagger</a></li>
-    <li>🗃️ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">SQLite</a></li>
-    <li>⚙️ <a href="https://ocelot.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">Ocelot Gateway</a></li>
-    <li>🔄 <a href="https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet" target="_blank" rel="noreferrer">CQRS Design Pattern</a></li>
-    <li>📂 <a href="https://martinfowler.com/eaaCatalog/repository.html" target="_blank" rel="noreferrer">Repository Design Pattern</a></li>
-    <li>🔒 <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data" target="_blank" rel="noreferrer">Authorization</a></li>
-    <li>🔗 <a href="https://rapidapi.com/" target="_blank" rel="noreferrer">RapidAPI</a></li>
-    <li>🗄️ <a href="https://redis.io/" target="_blank" rel="noreferrer">Redis</a></li>
-    <li>🐳 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a></li>
-    <li>🗄️ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">MSSQL</a></li>
-    <li>🐘 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">PostgreSQL</a></li>
-    <li>🍃 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a></li>
-    <li>🔤 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a></li>
-  </ul>
-</p>
+# 💻 Tech Stack:
+<div style="display: flex; gap: 10;">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="60" height="60">
+  </a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="60" height="60">
+</a>
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022">
+<img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
+</a>
+<a href="https://www.mysql.com/">
+ <img width="60" height="60" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://www.svgrepo.com/show/439268/postgresql.svg" width="60" height="60">
+</a>
+<a href="https://www.mongodb.com/">
+   <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="60" height="60">
+</a>
+ <a href="https://html.com/">
+   <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60">
+ </a>
+<a href="https://www.nuget.org/packages/Dapper">
+  <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" width="60" height="60">
+</a>
+<a href="https://www.docker.com/">
+ <img src="https://github.com/user-attachments/assets/56d058bf-3539-4515-9626-96edd4b5080e" width="60" height="60">
+</a>
+<a href="https://jwt.io/">
+ <img src="https://github.com/user-attachments/assets/2f1b2277-4b29-4803-9bc5-34da03575068" width="60" height="60">
+</a>
+<a href="https://www.rabbitmq.com/">
+ <img src="https://github.com/user-attachments/assets/ec4148f6-089b-43a5-a5ac-90a97b570017" width="60" height="60">
+</a>
+<a href="https://redis.io/">
+ <img src="https://github.com/user-attachments/assets/5c4c40d2-a155-4dbf-89b8-bb93ce821e74" width="60" height="60">
+</a>
+<a href="https://azure.microsoft.com/">
+  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" width="60" height="60">
+</a>
+<a href="https://github.com/SignalR/SignalR">
+  <img src="https://camo.githubusercontent.com/7756f4d96fbae10fad3ffb32fe76b870f037f5d3c77050786ff2d70b7c25d26c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" width="60" height="60">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60">
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60">
+</a>
+
+</div>
+
 
 
 
