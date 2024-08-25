@@ -41,9 +41,10 @@
 ### Languages and Tools:
 <p align="left">
   <!-- JSON Web Token -->
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64, [Base64 kodu]" alt="JSON Web Token" width="40" height="40"/> 
-  </a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+  <img src="icons/json-web-token.png" alt="JSON Web Token" width="40" height="40"/> 
+</a>
+
   <!-- Identity Server -->
   <a href="https://identityserver.io/" target="_blank" rel="noreferrer"> 
     <img src="data:image/png;base64, [Base64 kodu]" alt="Identity Server" width="40" height="40"/> 
