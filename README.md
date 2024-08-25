@@ -53,7 +53,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/api.png" alt="Swagger" width="40" height="40"/> 
   </a> 
   <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="Dapper" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="Dapper" width="40" height="40"/> 
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="40" height="40"/> 
@@ -62,7 +62,7 @@
     <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Ocelot Gateway" width="40" height="40"/> 
   </a>
   <a href="https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/dusk/48/000000/process.png" alt="CQRS Design Pattern" width="40" height="40"/> 
+    <img src="https://img.icons8.com/fluency/48/000000/process.png" alt="CQRS Design Pattern" width="40" height="40"/> 
   </a>
   <a href="https://www.dotnettricks.com/learn/designpatterns/mediator-design-pattern-dotnet" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/fluency/48/000000/control.png" alt="Mediator Design Pattern" width="40" height="40"/> 
@@ -77,6 +77,7 @@
     <img src="https://img.icons8.com/color/48/000000/api.png" alt="RapidAPI" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esincaglakiral&show_icons=true&locale=en&layout=compact" alt="esincaglakiral" /></p>
