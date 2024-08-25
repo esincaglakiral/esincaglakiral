@@ -39,7 +39,33 @@
   </a>
 </p>
 
-<p align="left"> <strong>🛠️ Technologies:</strong> <ul> <li>🔑 <a href="https://jwt.io/" target="_blank" rel="noreferrer">JSON Web Token (JWT)</a></li> <li>📦 <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer">Dapper</a></li> <li>🐇 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">RabbitMQ</a></li> <li>💻 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#</a></li> <li>📬 <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">Postman</a></li> <li>📜 <a href="https://swagger.io/" target="_blank" rel="noreferrer">Swagger</a></li> <li>🗃️ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">SQLite</a></li> <li>⚙️ <a href="https://ocelot.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">Ocelot Gateway</a></li> <li>🔄 <a href="https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet" target="_blank" rel="noreferrer">CQRS Design Pattern</a></li> <li>📂 <a href="https://martinfowler.com/eaaCatalog/repository.html" target="_blank" rel="noreferrer">Repository Design Pattern</a></li> <li>🔒 <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data" target="_blank" rel="noreferrer">Authorization</a></li> <li>🔗 <a href="https://rapidapi.com/" target="_blank" rel="noreferrer">RapidAPI</a></li> <li>🗄️ <a href="https://redis.io/" target="_blank" rel="noreferrer">Redis</a></li> <li>🐳 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a></li> <li>🗄️ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">MSSQL</a></li> <li>🐘 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">PostgreSQL</a></li> <li>🍃 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a></li> <li>🔤 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a></li> </ul> </p>
+<p align="left">
+  <strong>🛠️ Technologies:</strong>
+  <ul>
+    <li>🔵 <a href="https://docs.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">ASP.NET Core</a></li>
+    <li>🔗 <a href="https://docs.microsoft.com/en-us/aspnet/core/web-api/" target="_blank" rel="noreferrer">ASP.NET API</a></li>
+    <li>🔧 <a href="https://docs.microsoft.com/en-us/aspnet/mvc/" target="_blank" rel="noreferrer">ASP.NET MVC</a></li>
+    <li>💻 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#</a></li>
+    <li>🔑 <a href="https://jwt.io/" target="_blank" rel="noreferrer">JSON Web Token (JWT)</a></li>
+    <li>📦 <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer">Dapper</a></li>
+    <li>🐇 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">RabbitMQ</a></li>
+    <li>📬 <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">Postman</a></li>
+    <li>📜 <a href="https://swagger.io/" target="_blank" rel="noreferrer">Swagger</a></li>
+    <li>🗃️ <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">SQLite</a></li>
+    <li>⚙️ <a href="https://ocelot.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">Ocelot Gateway</a></li>
+    <li>🔄 <a href="https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet" target="_blank" rel="noreferrer">CQRS Design Pattern</a></li>
+    <li>📂 <a href="https://martinfowler.com/eaaCatalog/repository.html" target="_blank" rel="noreferrer">Repository Design Pattern</a></li>
+    <li>🔒 <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data" target="_blank" rel="noreferrer">Authorization</a></li>
+    <li>🔗 <a href="https://rapidapi.com/" target="_blank" rel="noreferrer">RapidAPI</a></li>
+    <li>🗄️ <a href="https://redis.io/" target="_blank" rel="noreferrer">Redis</a></li>
+    <li>🐳 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">Docker</a></li>
+    <li>🗄️ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">MSSQL</a></li>
+    <li>🐘 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">PostgreSQL</a></li>
+    <li>🍃 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a></li>
+    <li>🔤 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a></li>
+  </ul>
+</p>
+
 
 
 
