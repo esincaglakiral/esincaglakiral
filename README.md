@@ -40,8 +40,20 @@
 
 ### Languages and Tools:
 <p align="left">
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/000000/json-web-token.png" alt="JSON Web Token" width="40" height="40"/> 
+  </a> 
+  <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="Dapper" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" width="40" height="40"/> 
+  </a>
 
-
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/> 
   </a> 
