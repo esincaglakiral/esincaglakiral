@@ -75,7 +75,34 @@
   </a> 
   <a href="https://rapidapi.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/api.png" alt="RapidAPI" width="40" height="40"/> 
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/> 
   </a> 
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/ios-filled/50/000000/rabbitmq.png" alt="RabbitMQ" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/asp-net-core.png" alt="ASP.NET Core" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/asp-net-mvc.png" alt="ASP.NET MVC" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
+  </a>
 </p>
 
 
