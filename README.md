@@ -41,7 +41,7 @@
 
 ### Languages and Tools:
 <p align="left">
-   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/.net.png" alt=".NET" width="40" height="40"/> .NET
   </a>
     <br/>
