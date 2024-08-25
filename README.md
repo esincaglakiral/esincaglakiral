@@ -1,4 +1,3 @@
-![MasterHead](https://www.360technosoft.com/blog/wp-content/uploads/2019/01/Angular-JS-vs-Node-JS-vs-React-JS-Which-One-is-best.jpg)
 ![MasterHead](https://miro.medium.com/v2/resize:fit:825/0*jZBSbWmvl6IF-YPW.png)
 
 
