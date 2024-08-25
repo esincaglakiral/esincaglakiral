@@ -38,63 +38,46 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="ASP.NET Core" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/apps/aspnet/mvc" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="ASP.NET MVC" width="40" height="40"/> 
-  </a> 
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="JSON Web Token" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/json-web-token.png" alt="JSON Web Token" width="40" height="40"/> 
   </a>
   <a href="https://identityserver.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/identityserver/identityserver-icon.svg" alt="Identity Server" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a>
+    <img src="https://img.icons8.com/fluency/48/000000/security.png" alt="Identity Server" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/> 
+  </a> 
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" alt="Swagger" width="40" height="40"/> 
-  </a>
+    <img src="https://img.icons8.com/fluency/48/000000/api.png" alt="Swagger" width="40" height="40"/> 
+  </a> 
   <a href="https://dapper-tutorial.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dapperlib/dapperlib-icon.svg" alt="Dapper" width="40" height="40"/> 
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="Dapper" width="40" height="40"/> 
+  </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLLite" width="40" height="40"/> 
-  </a>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQLite" width="40" height="40"/> 
+  </a> 
   <a href="https://ocelot.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/ocelot/ocelot-icon.svg" alt="Ocelot Gateway" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="Ocelot Gateway" width="40" height="40"/> 
   </a>
-  <a href="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Ajax" width="40" height="40"/> 
+  <a href="https://www.dotnettricks.com/learn/designpatterns/cqrs-design-pattern-dotnet" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/dusk/48/000000/process.png" alt="CQRS Design Pattern" width="40" height="40"/> 
   </a>
-  <a href="https://microservices.io/patterns/architecture/onion-architecture.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Onion Architecture" width="40" height="40"/> 
+  <a href="https://www.dotnettricks.com/learn/designpatterns/mediator-design-pattern-dotnet" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/000000/control.png" alt="Mediator Design Pattern" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="MSSQL" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Entity Framework" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="CQRS Design Pattern" width="40" height="40"/> 
-  </a>
-  <a href="https://mediatr.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mediatr/mediatr-icon.svg" alt="Mediator Design Pattern" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-and-structs" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Repository Design Pattern" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Authentication" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Authorization" width="40" height="40"/> 
-  </a>
+  <a href="https://martinfowler.com/eaaCatalog/repository.html" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/folder-invoices.png" alt="Repository Design Pattern" width="40" height="40"/> 
+  </a> 
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authorization/secure-data" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/lock.png" alt="Authorization" width="40" height="40"/> 
+  </a> 
+  <a href="https://rapidapi.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/api.png" alt="RapidAPI" width="40" height="40"/> 
+  </a> 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esincaglakiral&show_icons=true&locale=en&layout=compact" alt="esincaglakiral" /></p>
 
