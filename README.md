@@ -1,6 +1,7 @@
 ![MasterHead](https://www.360technosoft.com/blog/wp-content/uploads/2019/01/Angular-JS-vs-Node-JS-vs-React-JS-Which-One-is-best.jpg)
+![MasterHead](https://onerbilisim.com/wp-content/uploads/2021/09/logo-net-core-e1631791117436.jpeg)
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonnurkarakus.medium.com%2Fvisual-studio-code-kullanarak-asp-net-core-projesi-geli%25C5%259Ftirme-6e2d1b838f2c&psig=AOvVaw11IiTCwKexUx-MK21Nuq5G&ust=1724684893926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDG2Yq2kIgDFQAAAAAdAAAAABAc.png)
+
 
 <h1 align="center">Hi 👋, I'm Esin Çağla Kıral</h1>
 <h3 align="center">A passionate .NET developer from Turkey</h3>
